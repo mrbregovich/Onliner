@@ -1,0 +1,15 @@
+{
+  "name": "onliner",
+  "version": "1.0.0",
+  "description": "Onliner test",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open",
+    "cypress:run": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
